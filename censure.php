@@ -13,7 +13,7 @@ echo str_replace('nzo', '***', $censure);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>BedWords</title>
 </head>
 <body>
     <p>La parola è <?php echo $censure ?> la lunghezza è <?php echo strlen($censure) ?> </p>
